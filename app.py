@@ -14,7 +14,7 @@ def api_home():
 def get_student():
     return jsonify({
         "student_id": "2024-0087",
-        "name": "Kc Jane Marie Ladoing",
+        "name": "Clark Vincent Labrador",
         "program": "BSIT",
         "year": 3,
         "section": "B"
